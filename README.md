@@ -29,9 +29,10 @@
 
 ## 📌 Featured Project
 ### 🔹 AI Spam Detector
-> A machine learning-based web app that classifies messages as Spam or Ham.
+> A machine learning-based web application that classifies messages as Spam or Ham and provides prediction confidence scores(percentage) for better transparency and trust.
 
 ✨ Features:
+- Prediction with confidence score (Spam vs Ham %)
 - Real-time prediction
 - Clean UI
 - NLP-based text processing
