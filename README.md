@@ -57,7 +57,7 @@ https://github.com/prayas670/Ai-Spam-Detector-Project-1
 ---
 
 ## ⚡ Fun Fact
-> I believe AI is not the future — it’s the present 🚀
+> I Google better than I code✌️.
 
 ---
 
