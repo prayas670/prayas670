@@ -57,7 +57,7 @@ https://github.com/prayas670/Ai-Spam-Detector-Project-1
 ---
 
 ## ⚡ Fun Fact
-> I Google better than I code✌️.
+> 🚀 Currently learning, building, and pretending I totally understand my own code.
 
 ---
 
