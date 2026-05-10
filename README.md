@@ -61,4 +61,4 @@ https://github.com/prayas670/Ai-Spam-Detector-Project-1
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile ✨</p>
+<p align="center">💫 Thanks for visiting my profile </p>
