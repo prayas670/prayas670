@@ -32,10 +32,14 @@
 > A machine learning-based web application that classifies messages as Spam or Ham and provides prediction confidence scores(percentage) for better transparency and trust.
 
 ✨ Features:
-- Prediction with confidence score (Spam vs Ham %)
-- Real-time prediction
-- Clean UI
-- NLP-based text processing
+
+✅ Spam/Ham message classification  
+✅ Prediction confidence score (%)  
+✅ Real-time text prediction  
+✅ NLP-based text preprocessing  
+✅ Clean and responsive UI  
+✅ Fast and lightweight application  
+
 
 👉 **Project Link:**  
 https://github.com/prayas670/Ai-Spam-Detector-Project-1
