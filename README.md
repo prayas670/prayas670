@@ -17,7 +17,7 @@
 - Python 🐍 | Java ☕ 
 
 🧠 **AI/ML**
-- Scikit-learn | Pandas | NumPy | Matplotlib | TensorFlow (Basics)
+- Scikit-learn | Pandas | NumPy | Matplotlib | TensorFlow 
 
 🌐 **Web Development**
 - HTML | CSS | Flask
