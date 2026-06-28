@@ -7,20 +7,20 @@
 - 🎓 Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning**
 - 🤖 Passionate about **AI, Machine Learning & Real-world problem solving**
 - 💡 Love building projects that combine **logic + creativity**
-- 🌱 Currently learning: **Deep Learning, NLP & Full Stack Development**
+- 🌱 Currently learning: **Deep Learning, NLP & Full Stack Web Development**
 - 🎯 Goal: To become a **skilled AI Engineer**
 
 ---
 
 ## 🚀 Tech Stack
 💻 **Languages**
-- Python 🐍 | Java ☕ 
+- Python 🐍 | Java ☕| C Programming 
 
 🧠 **AI/ML**
 - Scikit-learn | Pandas | NumPy | Matplotlib | TensorFlow 
 
 🌐 **Web Development**
-- HTML | CSS | Flask
+- HTML | CSS | Flask | Javascript
 
 🛠️ **Tools & Platforms**
 - Git | GitHub | VS Code | Jupyter Notebook
