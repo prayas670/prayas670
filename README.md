@@ -28,7 +28,7 @@
 ---
 
 ## 📌 Featured Project
-### 🔹 AI Spam Detector
+### 🔹 Spam Message Detector
 > A machine learning-based web application that classifies messages as Spam or Ham and provides prediction confidence scores(percentage) for better transparency and trust.
 
 ✨ Features:
@@ -42,7 +42,7 @@
 
 
 👉 **Project Link:**  
-https://github.com/prayas670/Ai-Spam-Detector-Project-1
+https://github.com/prayas670/Spam-Message-Detector
 
 ---
 
