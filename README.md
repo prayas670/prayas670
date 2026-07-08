@@ -33,12 +33,14 @@
 
 ✨ Features:
 
-✅ Spam/Ham message classification  
+✅ Spam/Ham message classification   
 ✅ Prediction confidence score (%)  
+✅ Interactive analytics dashboard  
 ✅ Real-time text prediction  
 ✅ NLP-based text preprocessing  
 ✅ Clean and responsive UI  
-✅ Fast and lightweight application  
+✅ Fast and lightweight application
+
 
 
 👉 **Project Link:**  
