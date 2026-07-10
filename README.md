@@ -43,7 +43,7 @@ Building intelligent software, modern web applications, and AI solutions that so
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
 ### AI / Machine Learning
@@ -108,15 +108,9 @@ Building intelligent software, modern web applications, and AI solutions that so
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prayas670&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prayas670&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayas670&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
