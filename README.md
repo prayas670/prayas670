@@ -107,16 +107,6 @@ Become an AI Engineer capable of building production-ready intelligent systems.
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prayas670&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 
 # 🚀 Featured Projects
 
